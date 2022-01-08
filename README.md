@@ -4,7 +4,7 @@
 
 ### Hungry-Monster Technology :
 
-- **HTML**
+- **HTML/HTML5**
 - **CSS/CSS3**
 - **JavaScript**
 - **TheMealDB Api**
